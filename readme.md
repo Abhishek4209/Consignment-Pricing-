@@ -2,7 +2,7 @@
 # Consignment-Pricing-Prediction-Using-MLOps-DVC
 
 <div style="text-align: center">
-  <img src="E:\ConsignmentPricing\IMG.jpg" alt="">
+  <img src="https://github.com/Abhishek4209/Consignment-Pricing-/blob/main/IMG.jpg" alt="">
 </div>
 
 ## Project Overview
