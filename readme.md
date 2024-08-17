@@ -1,5 +1,5 @@
 
-# Consignment-Pricing-Prediction-Using-MLOps-DVC
+# Consignment-Pricing-Prediction-Using-ML
 
 <div style="text-align: center">
   <img src="https://github.com/Abhishek4209/Consignment-Pricing-/blob/main/IMG.jpg" alt="">
