@@ -88,8 +88,7 @@ Streamlit is used to build a website<br>
 all the codes are given in app.py
 
 ## Contributions
-If you have any questions or suggestions regarding the project, please feel free to contact the project maintainer at [gmail](abhishekupadhyay9336@gmail.com
-)
+If you have any questions or suggestions regarding the project, please feel free to contact the project maintainer at `abhishekupadhyay9336@gmail.com`
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
