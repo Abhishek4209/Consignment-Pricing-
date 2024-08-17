@@ -1,9 +1,9 @@
-# numpy
-# pandas
-# seaborn
-# matplotlib
-# scipy
-# scikit-learn
-# Flask
-# ipykernel
-# # -e .
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+scikit-learn
+Flask
+ipykernel
+-e .
